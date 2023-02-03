@@ -1,0 +1,5 @@
+# ORACLE-DATA-MODEL
+HUMAN RESOURCES DATA MODELING DESIGN IN ORACLE
+
+
+![download](https://user-images.githubusercontent.com/113508526/216591693-c5143166-45a7-4aea-9f38-277c429414b9.jpg)
